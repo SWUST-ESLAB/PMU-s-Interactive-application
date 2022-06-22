@@ -1,0 +1,322 @@
+D:\VS2019_DATA\lss\lss\bin\Debug\lss.exe.config
+D:\VS2019_DATA\lss\lss\bin\Debug\lss.exe
+D:\VS2019_DATA\lss\lss\bin\Debug\lss.pdb
+D:\VS2019_DATA\lss\lss\bin\Debug\LiveCharts.dll
+D:\VS2019_DATA\lss\lss\bin\Debug\LiveCharts.Wpf.dll
+D:\VS2019_DATA\lss\lss\bin\Debug\LiveCharts.pdb
+D:\VS2019_DATA\lss\lss\bin\Debug\LiveCharts.xml
+D:\VS2019_DATA\lss\lss\bin\Debug\LiveCharts.Wpf.pdb
+D:\VS2019_DATA\lss\lss\bin\Debug\LiveCharts.Wpf.xml
+D:\VS2019_DATA\lss\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+D:\VS2019_DATA\lss\lss\obj\Debug\MainWindow.g.cs
+D:\VS2019_DATA\lss\lss\obj\Debug\App.g.cs
+D:\VS2019_DATA\lss\lss\obj\Debug\lss_MarkupCompile.cache
+D:\VS2019_DATA\lss\lss\obj\Debug\lss_MarkupCompile.lref
+D:\VS2019_DATA\lss\lss\obj\Debug\MainWindow.baml
+D:\VS2019_DATA\lss\lss\obj\Debug\lss.g.resources
+D:\VS2019_DATA\lss\lss\obj\Debug\lss.Properties.Resources.resources
+D:\VS2019_DATA\lss\lss\obj\Debug\lss.csproj.GenerateResource.cache
+D:\VS2019_DATA\lss\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+D:\VS2019_DATA\lss\lss\obj\Debug\lss.csproj.CopyComplete
+D:\VS2019_DATA\lss\lss\obj\Debug\lss.exe
+D:\VS2019_DATA\lss\lss\obj\Debug\lss.pdb
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\bin\Debug\lss.exe.config
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\bin\Debug\lss.exe
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\bin\Debug\lss.pdb
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\bin\Debug\LiveCharts.dll
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\bin\Debug\LiveCharts.pdb
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\bin\Debug\LiveCharts.xml
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\MainWindow.g.cs
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\App.g.cs
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\lss_MarkupCompile.cache
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\lss_MarkupCompile.lref
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\MainWindow.baml
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\lss.g.resources
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\lss.Properties.Resources.resources
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\lss.csproj.CopyComplete
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\lss.exe
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\obj\Debug\lss.pdb
+E:\Onedrive\OneDrive - wm3rt\827\lss\lss\bin\Debug\Properties\fig\background.jpg
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\Properties\fig\background.jpg
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\lss.exe.config
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\lss.exe
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\lss.pdb
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\LiveCharts.dll
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\LiveCharts.pdb
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\LiveCharts.xml
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\MainWindow.g.cs
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\App.g.cs
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\lss_MarkupCompile.cache
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\lss_MarkupCompile.lref
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\MainWindow.baml
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\lss.g.resources
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\lss.Properties.Resources.resources
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\lss.csproj.CopyComplete
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\lss.exe
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\obj\Debug\lss.pdb
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\Newtonsoft.Json.dll
+E:\研究生\项目\827\827iss_lqq_20220418\lss\lss\bin\Debug\Newtonsoft.Json.xml
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\Properties\fig\background.jpg
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\lss.exe.config
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\lss.exe
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\lss.pdb
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.dll
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\Newtonsoft.Json.dll
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.pdb
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.xml
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\bin\Debug\Newtonsoft.Json.xml
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\MainWindow.g.cs
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\App.g.cs
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\lss_MarkupCompile.cache
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\lss_MarkupCompile.lref
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\MainWindow.baml
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\lss.g.resources
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\lss.Properties.Resources.resources
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\lss.csproj.CopyComplete
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\lss.exe
+E:\研究生\项目\827\827iss_xcy_20220510\lss\lss\obj\Debug\lss.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\Properties\fig\background.jpg
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\lss.exe
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.dll
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\Newtonsoft.Json.dll
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.xml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\Newtonsoft.Json.xml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\MainWindow.g.cs
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\App.g.cs
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\lss_MarkupCompile.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\lss_MarkupCompile.lref
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\MainWindow.baml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\lss.g.resources
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\lss.Properties.Resources.resources
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\lss.csproj.CopyComplete
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\lss.exe
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\lss.exe.config
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\bin\Debug\lss.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\lss.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220511\827iss_xcy_20220510\lss\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\Properties\fig\background.jpg
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\lss.exe.config
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\lss.exe
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\lss.pdb
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\LiveCharts.dll
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\Newtonsoft.Json.dll
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\LiveCharts.pdb
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\LiveCharts.xml
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\bin\Debug\Newtonsoft.Json.xml
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\MainWindow.g.cs
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\App.g.cs
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\lss_MarkupCompile.cache
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\lss_MarkupCompile.lref
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\MainWindow.baml
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\lss.g.resources
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\lss.Properties.Resources.resources
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\lss.csproj.CopyComplete
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\lss.exe
+E:\研究生\项目\827\827iss_lqq_20220606\lss\lss\obj\Debug\lss.pdb
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\Properties\fig\background.jpg
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\lss.exe.config
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\lss.exe
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\lss.pdb
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\LiveCharts.dll
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\Newtonsoft.Json.dll
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\LiveCharts.pdb
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\LiveCharts.xml
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\bin\Debug\Newtonsoft.Json.xml
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\MainWindow.g.cs
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\App.g.cs
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\lss_MarkupCompile.cache
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\lss_MarkupCompile.lref
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\MainWindow.baml
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\lss.g.resources
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\lss.Properties.Resources.resources
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\lss.csproj.CopyComplete
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\lss.exe
+E:\研究生\项目\827\827iss_xcy_20220607\lss\lss\obj\Debug\lss.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\Properties\fig\background.jpg
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\lss.exe.config
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\lss.exe
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\lss.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\LiveCharts.dll
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\Newtonsoft.Json.dll
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\LiveCharts.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\LiveCharts.xml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\bin\Debug\Newtonsoft.Json.xml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\MainWindow.g.cs
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\App.g.cs
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\lss_MarkupCompile.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\lss_MarkupCompile.lref
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\MainWindow.baml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\lss.g.resources
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\lss.Properties.Resources.resources
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\lss.csproj.CopyComplete
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\lss.exe
+E:\Onedrive\OneDrive - wm3rt\827\now\20220609\827iss_xcy_20220609\827iss_xcy_20220609\lss\lss\obj\Debug\lss.pdb
+E:\研究生\项目\827\lss\lss\bin\Debug\Properties\fig\background.jpg
+E:\研究生\项目\827\lss\lss\bin\Debug\lss.exe.config
+E:\研究生\项目\827\lss\lss\bin\Debug\lss.exe
+E:\研究生\项目\827\lss\lss\bin\Debug\lss.pdb
+E:\研究生\项目\827\lss\lss\bin\Debug\LiveCharts.dll
+E:\研究生\项目\827\lss\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\研究生\项目\827\lss\lss\bin\Debug\Newtonsoft.Json.dll
+E:\研究生\项目\827\lss\lss\bin\Debug\LiveCharts.pdb
+E:\研究生\项目\827\lss\lss\bin\Debug\LiveCharts.xml
+E:\研究生\项目\827\lss\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\研究生\项目\827\lss\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\研究生\项目\827\lss\lss\bin\Debug\Newtonsoft.Json.xml
+E:\研究生\项目\827\lss\lss\obj\Debug\MainWindow.g.cs
+E:\研究生\项目\827\lss\lss\obj\Debug\App.g.cs
+E:\研究生\项目\827\lss\lss\obj\Debug\lss_MarkupCompile.cache
+E:\研究生\项目\827\lss\lss\obj\Debug\lss_MarkupCompile.lref
+E:\研究生\项目\827\lss\lss\obj\Debug\MainWindow.baml
+E:\研究生\项目\827\lss\lss\obj\Debug\lss.g.resources
+E:\研究生\项目\827\lss\lss\obj\Debug\lss.Properties.Resources.resources
+E:\研究生\项目\827\lss\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\研究生\项目\827\lss\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\研究生\项目\827\lss\lss\obj\Debug\lss.csproj.CopyComplete
+E:\研究生\项目\827\lss\lss\obj\Debug\lss.exe
+E:\研究生\项目\827\lss\lss\obj\Debug\lss.pdb
+E:\研究生\项目\827\lss\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\Properties\fig\background.jpg
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\lss.exe.config
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\lss.exe
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\lss.pdb
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\LiveCharts.dll
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\Newtonsoft.Json.dll
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\LiveCharts.pdb
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\LiveCharts.xml
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\研究生\项目\827\827iss_xcy_20220610\lss\bin\Debug\Newtonsoft.Json.xml
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\MainWindow.g.cs
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\App.g.cs
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\lss_MarkupCompile.cache
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\lss_MarkupCompile.lref
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\MainWindow.baml
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\lss.g.resources
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\lss.Properties.Resources.resources
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\lss.csproj.CopyComplete
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\lss.exe
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\lss.pdb
+E:\研究生\项目\827\827iss_xcy_20220610\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\Properties\fig\background.jpg
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\lss.exe.config
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\lss.exe
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\lss.pdb
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.dll
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\Newtonsoft.Json.dll
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.pdb
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.xml
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\研究生\项目\827\827iss_xcy_20220619\lss\bin\Debug\Newtonsoft.Json.xml
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\MainWindow.g.cs
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\App.g.cs
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\lss_MarkupCompile.cache
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\lss_MarkupCompile.lref
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\MainWindow.baml
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\lss.g.resources
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\lss.Properties.Resources.resources
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\lss.csproj.CopyComplete
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\lss.exe
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\lss.pdb
+E:\研究生\项目\827\827iss_xcy_20220619\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\Properties\fig\background.jpg
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\lss.exe.config
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\lss.exe
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\lss.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.dll
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\Newtonsoft.Json.dll
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.xml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\bin\Debug\Newtonsoft.Json.xml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\lss.csproj.AssemblyReference.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\MainWindow.g.cs
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\App.g.cs
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\lss_MarkupCompile.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\lss_MarkupCompile.lref
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\MainWindow.baml
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\lss.g.resources
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\lss.Properties.Resources.resources
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\lss.csproj.CopyComplete
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\lss.exe
+E:\Onedrive\OneDrive - wm3rt\827\now\20220620\827iss_xcy_20220619\lss\obj\Debug\lss.pdb
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\Properties\fig\background.jpg
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\lss.exe.config
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\lss.exe
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\lss.pdb
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\LiveCharts.dll
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\LiveCharts.Wpf.dll
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\Newtonsoft.Json.dll
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\LiveCharts.pdb
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\LiveCharts.xml
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\LiveCharts.Wpf.pdb
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\LiveCharts.Wpf.xml
+E:\研究生\项目\827\827iss_lqq_20220620\lss\bin\Debug\Newtonsoft.Json.xml
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\MainWindow.g.cs
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\App.g.cs
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\lss_MarkupCompile.cache
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\lss_MarkupCompile.lref
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\MainWindow.baml
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\lss.g.resources
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\lss.Properties.Resources.resources
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\lss.csproj.GenerateResource.cache
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\lss.csproj.CoreCompileInputs.cache
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\lss.csproj.CopyComplete
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\lss.exe
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\lss.pdb
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\calibration.g.cs
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\calibration.baml
+E:\研究生\项目\827\827iss_lqq_20220620\lss\obj\Debug\lss.csproj.AssemblyReference.cache
